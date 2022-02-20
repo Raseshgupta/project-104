@@ -1,0 +1,29 @@
+body{
+background-color:aquamarine;
+color:brown;
+
+}
+.heading{
+    width:50%;
+    font-size:25px;
+
+}
+#camera{
+    border: 5px dotted red;
+    width: 350px;
+    height:300px;
+
+}
+.name_object,#reult_object_name,#result_object_accuracy{
+    color:blueviolet;
+    font-size:20px;
+
+
+}
+p,b{
+    font-size:40px !important;
+    font-family: 'Style Script', cursive;
+}
+.name_object hr{
+    background-color: black;
+}
